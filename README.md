@@ -40,21 +40,14 @@ Creating the sub-OUs: <br/>
 Creating Groups and Users
 ![Creating Groups and Users](https://github.com/user-attachments/assets/3c543ddf-ebd0-43eb-a385-59873f59375b)
 
-<p align="center">
-Creating groups and users for each OU: <br/>
+Creating group policies: 
+![Setting up group policies](https://github.com/user-attachments/assets/56d88ea0-397c-485f-b1cb-22cedeb657e3)
+<br/>
 <br />
+
+
+Creating the "Account Lockout" group policy: 
+![Account Lockout Policy](https://github.com/user-attachments/assets/cccbedfb-589b-4f41-9da2-862b4d33fb8a)
+<br/>
 <p align="center">
-Creating the USA OU, group, and users: <br/>
-<br />
-<p align="center">
-Creating the Asia OU, group, and users: <br/>
-<br />
-<p align="center">
-Creating the Europe OU, group, and users: <br/>
-<br />
-<p align="center">
-Creating group policies: <br/>
-<br />
-<p align="center">
-Creating the "Account Lockout" group policy: <br/>
 <br />
